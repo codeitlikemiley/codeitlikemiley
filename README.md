@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 🔭 I’m currently working on [Canopus](https://github.com/goldcoders/canopus)
+- 🔭 I’m currently working on [Canopus](https://github.com/goldcoders/canopus) (Desktop Site Manage of Thriftshop)
 
-- 🚀 I'm About to Launch **Thrift Shop Web/ Desktop App**
+- 🚀 I'm About to Launch **Thrift Shop**
 
 - 👨‍💻 I Use **Archlinux** Daily For Software Development Check My [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux), My Custom [Simple Terminal Build](https://github.com/goldcoders/st) and [Custom DWM Build](https://github.com/goldcoders/dwm)
 
