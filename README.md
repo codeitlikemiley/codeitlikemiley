@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 🔭 I’m currently working on **Thrift Shop Web / Desktop App**
-
-- 👯 I’m looking for Developers To Join [Thrift Shop](https://github.com/thriftshop-site)
+- 🔭 I’m currently working on [Canopus](https://github.com/goldcoders/canopus)
 
 - 🚀 I'm About to Launch **Thrift Shop Web/ Desktop App**
 
