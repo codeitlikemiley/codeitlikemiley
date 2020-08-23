@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uriah</h1>
 <h3 align="center">Owner Of <a href="https://goldcoders.online">Goldcoders</a> A Software Dev Company in The 🇵🇭</h3>
 
-[](https://komarev.com/ghpvc/?username=codeitlikemiley)
+![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
 - 🌱 I’m currently learning **Rust Lang**
 
