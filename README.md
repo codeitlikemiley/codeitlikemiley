@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
-- 🌱 I’m currently learning **Rust**
-
 - 🔭 I’m currently working on [Canopus](https://github.com/goldcoders/canopus) (Desktop Site Manage of Thriftshop)
 
 - 🚀 I'm About to Launch **Thrift Shop**
