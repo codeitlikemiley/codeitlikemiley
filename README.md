@@ -3,13 +3,15 @@
 
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
-- 🌱 I’m currently learning **Rust Lang**
+- 🌱 I’m currently learning **Rust**
 
 - 🔭 I’m currently working on **Thrift Shop Web / Desktop App**
 
-- 👯 I’m looking for Contributors  [Thrift Shop](https://github.com/thriftshop-site)
+- 👯 I’m looking for Developers To Join [Thrift Shop](https://github.com/thriftshop-site)
 
-- 👨‍💻 Im An Archlinux Power User 
+- 🚀 I'm About to Launch **Thrift Shop Web/ Desktop App**
+
+- 👨‍💻 Im An **Archlinux** Power User, I used it Daily For Software Development
 
 - 📫 How to reach me **codeitlikemiley@gmail.com**
 
