@@ -11,7 +11,7 @@
 
 - 🚀 I'm About to Launch **Thrift Shop Web/ Desktop App**
 
-- 👨‍💻 Im An **Archlinux** Power User, I used it Daily For Software Development
+- 👨‍💻 Im An **Archlinux** Power User, I used it Daily For Software Development Check My [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux)
 
 - 📫 How to reach me **codeitlikemiley@gmail.com**
 
