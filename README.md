@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Uriah</h1>
+<h3 align="center">Owner Of [Goldcoders](https://goldcoders.online) Software Dev Company in The 🇵🇭</h3>
+![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
-<!--
-**codeitlikemiley/codeitlikemiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Rust Lang**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Thrift Shop Web / Desktop App**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking for Contributors  [Thrift Shop](https://github.com/thriftshop-site)
+
+- 👨‍💻 Im An Archlinux Power User 
+
+- 📫 How to reach me **codeitlikemiley@gmail.com**
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true" alt="uriah" /></p>
+
+<p align="center">
+<a href="https://twitter.com/codeitlikemiley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codeitlikemiley" height="30" width="30" /></a>
+<a href="https://fb.com/codeitlikemiley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mauriciohernancabrera" height="30" width="30" /></a>
+<a href="https://instagram.com/uriah.g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hernanmauriciocabrera" height="30" width="30" /></a>
+</p>
