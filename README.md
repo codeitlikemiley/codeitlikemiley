@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uriah</h1>
 <h3 align="center">Owner Of <a href="https://goldcoders.online">Goldcoders</a> A Software Dev Company in The 🇵🇭</h3>
-
+<h3 align="center">Founder Of <a href="https://thriftshop.site">Thriftshop Apps</a> Ecommerce Solution For Filipino Online Sellers</h3>
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
-- 🔭 I’m currently working on [Canopus](https://github.com/goldcoders/canopus) (Desktop Site Manage of Thriftshop)
-
-- 🚀 I'm About to Launch **Thrift Shop**
 
 - 👨‍💻 I Use **Archlinux** Daily For Software Development Check My [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux), My Custom [Simple Terminal Build](https://github.com/goldcoders/st) and [Custom DWM Build](https://github.com/goldcoders/dwm)
 
