@@ -21,9 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldcoders&show_icons=true" alt="goldcoders" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thriftshop-site&layout=compact&hide=html" alt="thriftshop-site" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thriftshop-site&show_icons=true" alt="thriftshop-site" /></p>
 
 
 <p align="center">
