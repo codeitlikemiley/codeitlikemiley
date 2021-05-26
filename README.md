@@ -13,13 +13,18 @@
 
 - 📫 How to reach me **codeitlikemiley@gmail.com**
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldcoders&layout=compact&hide=html" alt="goldcoders" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldcoders&show_icons=true" alt="uriah" /></p>
-
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true" alt="uriah" /></p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldcoders&layout=compact&hide=html" alt="goldcoders" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldcoders&show_icons=true" alt="goldcoders" /></p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thriftshop-site&layout=compact&hide=html" alt="thriftshop-site" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thriftshop-site&show_icons=true" alt="thriftshop-site" /></p>
+
 
 <p align="center">
 <a href="https://twitter.com/codeitlikemiley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codeitlikemiley" height="30" width="30" /></a>
