@@ -5,9 +5,17 @@
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
 
-- 👨‍💻 I Use **Archlinux** Daily For Software Development Check My [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux), My Custom [Simple Terminal Build](https://github.com/goldcoders/st) and [Custom DWM Build](https://github.com/goldcoders/dwm)
+- 👨‍💻 I Use **Archlinux** Daily For Software Development for Web, Linux and Android Check My [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux), My Custom [Simple Terminal Build](https://github.com/goldcoders/st) and [Custom DWM Build](https://github.com/goldcoders/dwm)
+- 👨‍💻 I Use **MacOs Big Sur** for Developing iOS and MacOS Apps , my [Mac M1 Dot Files](https://github.com/goldcoders/mac-m1-dotfiles)
+- 👨‍💻 I Use **Windows 10** For Developing Android and Windows 10 Apps, My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
+
+[For Free Learning Resources in Flutter Click Here](https://github.com/goldcoders/Flutter)
 
 - 📫 How to reach me **codeitlikemiley@gmail.com**
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true" alt="uriah" /></p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
 
