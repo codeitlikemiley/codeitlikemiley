@@ -19,5 +19,8 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldcoders&layout=compact&hide=html" alt="goldcoders" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldcoders&show_icons=true" alt="goldcoders" /></p>
+
+
 
 
