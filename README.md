@@ -22,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldcoders&show_icons=true" alt="goldcoders" /></p>
 
 
-
-<p align="center">
-<a href="https://twitter.com/codeitlikemiley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codeitlikemiley" height="30" width="30" /></a>
