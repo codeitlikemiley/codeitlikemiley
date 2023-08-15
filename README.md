@@ -14,7 +14,7 @@
 
 Are you a MacOS User? feel free to adopt by 10X Dev Worklow on Mac:
 
-No Mouse? No problem :-B
+No Mouse? No problem 😎
 
 https://github.com/codeitlikemiley/10x-dev-macosx-workflow
 
@@ -23,6 +23,8 @@ Do you love Rust 🦀 ?
 Try my Neovide Nvim Config:
 
 https://github.com/codeitlikemiley/neovide-rust-neovim
+
+If you Speed up your Dev Workflow with my Workflow please star it Thanks!
 
 - 📫 How to reach me **codeitlikemiley@gmail.com**
 
