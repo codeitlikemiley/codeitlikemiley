@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 I Use **Archlinux / Artixlinux** Daily For Software Development for Web, Linux and Android Check My [Archlinux Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux) and [Artixlinux Dotfiles](https://github.com/codeitlikemiley/artix-dotfiles) , My Custom [Simple Terminal Build](https://github.com/codeitlikemiley/st) and [Custom DWM Build](https://github.com/codeitlikemiley/dwm)
-- 👨‍💻 I Use **MacOs Big Sur** for Developing iOS and MacOS Apps , my [Mac M1 Dot Files](https://github.com/goldcoders/mac-m1-dotfiles)
-- 👨‍💻 I Use **Windows 10** For Developing Android and Windows 10 Apps, My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
+- 👨‍💻 I Use **MacOS** for Developing iOS and MacOS Apps , my [Mac M1 Dot Files](https://github.com/goldcoders/mac-m1-dotfiles)
+- 👨‍💻 I Use **Windows 11** For Developing Android and Windows 10 Apps, My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
 
 
 Are you a MacOS User? feel free to adopt by 10X Dev Worklow on Mac:
