@@ -14,6 +14,8 @@
 
 Are you a MacOS User? feel free to adopt by 10X Dev Worklow on Mac:
 
+No Mouse? No problem :-B
+
 https://github.com/codeitlikemiley/10x-dev-macosx-workflow
 
 Do you love Rust 🦀 ?
