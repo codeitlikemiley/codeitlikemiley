@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uriah</h1>
 <h3 align="center">10X Developer Focus on Optimizing my Day to Day Workflow</h3>
-<h3 align="center">I considered myself a Master Rustacean 🦀</h3>
+<h3 align="center">A Master Rustacean 🦀</h3>
 <h3 align="center">A Fullstack Software Engineer</h3>
 <h3 align="center">An Open Source Advocate</h3>
 
