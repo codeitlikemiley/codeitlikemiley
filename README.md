@@ -22,7 +22,7 @@ Do you love Rust 🦀 ?
 
 Try my Neovide Nvim Config:
 
-https://github.com/codeitlikemiley/neovide-rust-neovim
+https://github.com/codeitlikemiley/nvim
 
 If you Speed up your Dev Workflow with my Workflow please star it Thanks!
 
