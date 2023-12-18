@@ -12,17 +12,21 @@
 - 👨‍💻 I Use **Windows 11** For Developing Android and Windows 10 Apps, My [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
 
 
-Are you a MacOS User? feel free to adopt by 10X Dev Worklow on Mac:
+Are you a MacOS User? feel free to adopt by [10X Dev Worklow on Mac](https://github.com/codeitlikemiley/10x-dev-macosx-workflow)
 
 No Mouse? No problem 😎
 
-https://github.com/codeitlikemiley/10x-dev-macosx-workflow
-
 Do you love Rust 🦀 ?
 
-Try my Neovide Nvim Config:
+I got lots of stuff related to rust
 
-https://github.com/codeitlikemiley/nvim
+Try my [Neovide Rust Edition](https://github.com/codeitlikemiley/nvim) , Get Productive Coding in Rust
+
+[GRPC Server Template](http://github.com/codeitlikemiley/server_template)  and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template)
+
+[Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to Manage your Rust Workspace easily
+
+[Snippet Management CLI](https://github.com/codeitlikemiley/snipr) for Managing your Snippets on Neovim and VSCode
 
 If you Speed up your Dev Workflow with my Workflow please star it Thanks!
 
