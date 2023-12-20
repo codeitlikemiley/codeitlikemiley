@@ -19,7 +19,7 @@ Do you love Rust 🦀 ?
 
 I got lots of stuff related to rust
 
-Try my [Neovide Rust Edition](https://github.com/codeitlikemiley/nvim) , Get Productive Coding in Rust
+Get Productive Coding in Rust, Try my [Neovide Rust Edition](https://github.com/codeitlikemiley/nvim) comes with a install script.
 
 [GRPC Server Template](http://github.com/codeitlikemiley/server_template)  and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template)
 
