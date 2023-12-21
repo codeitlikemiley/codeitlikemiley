@@ -21,6 +21,10 @@ I got lots of stuff related to rust
 
 Get Productive Coding in Rust, Try my [Neovide Rust Edition](https://github.com/codeitlikemiley/nvim) comes with a install script.
 
+[Fullstack Rust Dev](https://github.com/codeitlikemiley/fullstackrust-dev) - Reproducible Fullstack Rust Development Environment on Codespace or Docker Dev Containers
+
+That can be used To create REST API with Axum or Tonic using the following: 
+
 [GRPC Server Template](http://github.com/codeitlikemiley/server_template)  and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template)
 
 [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to Manage your Rust Workspace easily
