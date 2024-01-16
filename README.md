@@ -23,7 +23,7 @@ Get Productive Coding in Rust, Try my [Neovide Rust Edition](https://github.com/
 
 If you're using Rust Rover , for Rust Development , you can Import my [Rust Rover Settings](https://github.com/codeitlikemiley/rust-rover-settings) and be productive.
 
-[Fullstack Rust Dev](https://github.com/codeitlikemiley/fullstackrust-dev) - Reproducible Fullstack Rust Development Environment on Codespace or Docker Dev Containers
+[Rust on Steroids](https://github.com/codeitlikemiley/rust-on-steroids) - Reproducible Fullstack Rust Development Environment on Codespace or Docker Dev Containers
 
 That can be used To create REST API with Axum or Tonic using the following: 
 
