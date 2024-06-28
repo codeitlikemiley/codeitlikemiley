@@ -35,7 +35,7 @@ That can be used To create REST API with Axum or Tonic using the following:
 
 If you Speed up your Dev Workflow with my Workflow please star it Thanks!
 
-- 📫 How to reach me **codeitlikemiley@gmail.com**
+- 📫 How to reach me thru email with **codeitlikemiley@gmail.com** or at [linkedin: uriahg](https://www.linkedin.com/in/uriahg/)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
 
