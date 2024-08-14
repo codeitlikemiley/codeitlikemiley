@@ -42,6 +42,7 @@ Here be a few gems from me Rust treasure trove:
 - [GRPC Server Template](http://github.com/codeitlikemiley/server_template) and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template).
 - [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to manage yer Rust Workspace like a true captain.
 - [Snippet Management CLI](https://github.com/codeitlikemiley/snipr) for managing yer snippets in Neovim and VSCode.
+- [Rust VSCode Plugin - Cargo Runner](https://github.com/codeitlikemiley/cargo-runner) - A tool to make ye 10X faster, ye scallywag! Unleash the power of Rust with this mighty plugin.
 
 If ye want to join me crew or parley with me:
 
