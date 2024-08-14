@@ -46,7 +46,7 @@ Here be a few gems from me Rust treasure trove:
 
 If ye want to join me crew or parley with me:
 
-- 📫 Send a message in a bottle via email at **codeitlikemiley@gmail.com** or connect on [LinkedIn: uriahg](https://www.linkedin.com/in/uriahg/).
+- 📫 Send a message in a bottle via email at **codeitlikemiley@gmail.com** or drop your anchor at [LinkedIn: uriahg](https://www.linkedin.com/in/uriahg/).
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
 
