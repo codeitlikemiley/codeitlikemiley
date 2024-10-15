@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Uriah </h1>
+<h1 align="center">Hello,I'm Uriah </h1>
 <h3 align="center">A 10X Developer Focused on Workflow Optimization</h3>
 <h3 align="center">Expert in Rust Development</h3>
 <h3 align="center">Full-Stack Software Engineer</h3>
