@@ -39,6 +39,7 @@ Now, most of me treasures be coded in Rust—some of them be open source, others
 Here be a few gems from me Rust treasure trove:
 
 - [Rust Duplex Server](https://github.com/codeitlikemiley/duplex-server-rs) - Highly scalable and performant Rust server designed to handle both RESTful and gRPC APIs. Built with modern Rust frameworks like tonic for gRPC and axum for REST API.
+- [Ntext Turso Backend](https://github.com/codeitlikemiley/ntext-turso–backend) - Build you next backend server using the fastest framework in Rust
 - [Rust on Steroids](https://github.com/codeitlikemiley/rust-on-steroids) - A reproducible full-stack Rust developin' environment, perfect fer Codespace or Docker Dev Containers.
 - [GRPC Server Template](http://github.com/codeitlikemiley/server_template) and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template).
 - [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to manage yer Rust Workspace like a true captain.
