@@ -43,6 +43,7 @@ Here are some notable projects from my Rust collection:
 - [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to effectively manage your Rust workspace.
 - [Snippet Management CLI](https://github.com/codeitlikemiley/snipr) for organizing your snippets in Neovim and VSCode.
 - [Rust VSCode Plugin - Cargo Runner](https://github.com/codeitlikemiley/cargo-runner) - A tool designed to enhance your productivity with Rust.
+- [Leptos-fmt Vscode Plugin](https://github.com/codeitlikemiley/leptos-fmt) - A Code formatter for Rust Framework called Leptos. 
 
 If you’re interested in collaborating or discussing projects:
 
