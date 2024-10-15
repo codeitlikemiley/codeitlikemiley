@@ -37,7 +37,7 @@ Now, most of my projects are written in Rust—some are open-source contribution
 Here are some notable projects from my Rust collection:
 
 - [Rust Duplex Server](https://github.com/codeitlikemiley/duplex-server-rs) - A highly scalable and performant Rust server designed to handle both RESTful and gRPC APIs, built with modern Rust frameworks like tonic for gRPC and axum for REST API.
-- [Ntext Turso Backend](https://github.com/codeitlikemiley/ntext-turso–backend) - Build your next backend server using the fastest framework in Rust.
+- [Ntex Turso Backend](https://github.com/codeitlikemiley/ntext-turso–backend) - Build your next backend server using the fastest framework in Rust.
 - [Rust on Steroids](https://github.com/codeitlikemiley/rust-on-steroids) - A reproducible full-stack Rust development environment, perfect for Codespace or Docker Dev Containers.
 - [GRPC Server Template](http://github.com/codeitlikemiley/server_template) and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template).
 - [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to effectively manage your Rust workspace.
