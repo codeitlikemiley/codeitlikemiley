@@ -49,6 +49,5 @@ If you’re interested in collaborating or discussing projects:
 
 - 📫 Feel free to reach out via email at **codeitlikemiley@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/uriahg/).
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&layout=compact&hide=html" alt="uriah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true" alt="uriah" /></p>
