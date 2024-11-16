@@ -43,7 +43,11 @@ Here are some notable projects from my Rust collection:
 - [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) to effectively manage your Rust workspace.
 - [Snippet Management CLI](https://github.com/codeitlikemiley/snipr) for organizing your snippets in Neovim and VSCode.
 - [Rust VSCode Plugin - Cargo Runner](https://github.com/codeitlikemiley/cargo-runner) - A tool designed to enhance your productivity with Rust.
+<img src="https://vsmarketplacebadges.dev/downloads-short/masterustacean.cargo-runner.svg"/>
 - [Leptos-fmt Vscode Plugin](https://github.com/codeitlikemiley/leptos-fmt) - A Code formatter for Rust Framework called Leptos. 
+<img src="https://vsmarketplacebadges.dev/downloads-short/masterustacean.leptos-fmt.svg" />
+
+
 
 # 💻 Tech Stack:
 
@@ -89,20 +93,16 @@ Here are some notable projects from my Rust collection:
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=codeitlikemiley&theme=react&border=61dafb&hide_border=true" alt="codeitlikemiley" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
   </div>
   <br>
+
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeitlikemiley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
