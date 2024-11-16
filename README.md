@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
 
-# 💫 About Me:
+## 💫 About Me:
 
 I build cross-platform apps , web apps, and mobile apps. 
 
@@ -32,7 +32,7 @@ To Keep my sanity, I make sure to make my set up across all platforms as similar
 - [VSCode with Neovim](https://github.com/codeitlikemiley/vscode-neovim)
 - [Zed Configuration](https://github.com/codeitlikemiley/zed-config)
 
-#### My OSS
+## My OSS
 
 Here are some notable projects from my Rust collection:
 
@@ -48,8 +48,11 @@ Here are some notable projects from my Rust collection:
 - [Leptos-fmt Vscode Plugin](https://github.com/codeitlikemiley/leptos-fmt) - A Code formatter for Rust Framework called Leptos. 
 <img src="https://vsmarketplacebadges.dev/downloads-short/masterustacean.leptos-fmt.svg" />
 
+> If you like my work, consider [sponsoring me](https://github.com/sponsors/codeitlikemiley) to support my open-source contributions.
 
-# 💻 Tech Stack:
+[![Sponsor me on GitHub](https://img.shields.io/badge/sponsor-me-1f69e1?logo=github&style=for-the-badge)](https://github.com/sponsors/codeitlikemiley)
+
+##  💻 Tech Stack:
 
 ![Linux](https://img.shields.io/badge/Linux-FF3A00?style=for-the-badge&logo=linux&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=apple&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -78,7 +81,7 @@ Here are some notable projects from my Rust collection:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-# 📊 My Github Stats 🏆:
+## 📊 My Github Stats 🏆:
 <br>
 <p align=center>
   <div align=center>
@@ -101,4 +104,3 @@ Here are some notable projects from my Rust collection:
 If you’re interested in collaborating or discussing projects:
 
 [![li](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uriahg) [![fb](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/t024h/) [![x](https://img.shields.io/badge/X-%23181717.svg?logo=x&logoColor=white)](https://x.com/buggyDcode)
-
