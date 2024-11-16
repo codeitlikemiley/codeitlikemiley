@@ -49,21 +49,9 @@ Here are some notable projects from my Rust collection:
 <img src="https://vsmarketplacebadges.dev/downloads-short/masterustacean.leptos-fmt.svg" />
 
 
-
 # 💻 Tech Stack:
 
-<span style="background-color: #FF3A00; color: white; padding: 5px 10px;margin-right: 3px;">
-  <i class="fab fa-linux"></i> Linux
-</span>
-<span style="background-color: #A2AAAD; color: white; padding: 5px 10px;margin-right: 3px;">
-  <i class="fab fa-apple"></i> Apple
-</span>
-<span style="background-color: #0078D4; color: white; padding: 5px 10px;margin-right: 3px;">
-  <i class="fab fa-microsoft"></i> Microsoft
-</span> 
-
-<br>
-<br>
+![Linux](https://img.shields.io/badge/Linux-FF3A00?style=for-the-badge&logo=linux&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=apple&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
@@ -113,3 +101,4 @@ Here are some notable projects from my Rust collection:
 If you’re interested in collaborating or discussing projects:
 
 [![li](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uriahg) [![fb](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/t024h/) [![x](https://img.shields.io/badge/X-%23181717.svg?logo=x&logoColor=white)](https://x.com/buggyDcode)
+
