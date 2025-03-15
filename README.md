@@ -103,7 +103,7 @@ Here are some notable projects from my Rust collection:
 
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeitlikemiley&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 ## 🌐 Connect with me
