@@ -88,21 +88,6 @@ Here are some notable projects from my Rust collection:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/codeitlikemiley)
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<a href="https://github.com/codeitlikemiley">
-  <img alt="Profile Details" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/0-profile-details.svg" />
-</a>
-<a href="https://github.com/codeitlikemiley">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/3-stats.svg" />
-</a>
-<a href="https://github.com/codeitlikemiley">
-  <img alt="Top Languages" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-</a>
-
 
 ## 📊 My Github Stats 🏆:
 <br>
