@@ -12,7 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=codeitlikemiley)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 💫 About Me:
 
@@ -66,6 +65,9 @@ Here are some notable projects from my Rust collection:
 ## 💻 Tech Stack:
 
 <!-- Your full Tech Stack stays exactly the same — omitted here for brevity -->
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg)
+
 
 ## 📊 My Github Stats 🏆:
 
