@@ -90,6 +90,20 @@ Here are some notable projects from my Rust collection:
 
 [![GitHub Contribution Snake](https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/codeitlikemiley)
 
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<a href="https://github.com/codeitlikemiley">
+  <img alt="Profile Details" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/0-profile-details.svg" />
+</a>
+<a href="https://github.com/codeitlikemiley">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/3-stats.svg" />
+</a>
+<a href="https://github.com/codeitlikemiley">
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
+</a>
+
+
 ## 📊 My Github Stats 🏆:
 <br>
 <p align=center>
