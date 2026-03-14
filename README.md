@@ -50,6 +50,7 @@ Some notable projects from my Rust collection:
 - [Cargo Runner](https://github.com/codeitlikemiley/cargo-runner) — A VSCode plugin to boost your Rust productivity.
 - [RAZ - Rust Action Zapper](https://github.com/codeitlikemiley/raz) - A universal command runner that executes any Rust file from any directory without requiring workspace context. It provides intelligent, cursor-aware test detection and persistent command overrides.
 - [WAZ](https://github.com/codeitlikemiley/waz) - Bring Warp Intelligence to your terminal
+- [Screen Recorder](https://github.com/codeitlikemiley/screenrecorder) - AI Powered ScreenRecorder can be used to auto annotate for documentations or used for bug reproduction tools
 
 ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/masterustacean/cargo-runner)
 ![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads-short/masterustacean.cargo-runner.svg)
