@@ -55,7 +55,7 @@
     *   **Native TMP Integration**: Natively integrates the **Token Model Protocol (TMP)** to:
         *   Provide supercharged tab-autocomplete for paths, flags, and dynamic values (e.g. from `git status`) inside the terminal's Form Panel.
         *   Compile local command schemas directly into structured Model Context Protocol (MCP) tools for AI agents, verifying parameters and generating safe, sanitized shell instructions on the local Rust runtime.
-    *   **Agent & Provider Support**: Integrates local AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables secure, local execution of third-party CLI agents (such as Google Antigravity `agy`, Claude Code, and DeepSeek-TUI) wired directly into Blocks.
+    *   **Agent & Provider Support**: Integrates local AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables secure, local execution of third-party CLI agents (such as Claude Code and DeepSeek-TUI) wired directly into Blocks.
 *   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
     *   Build type-safe, highly asynchronous multi-agent orchestration systems natively in Rust. Connect LLMs, manage memory states, and define tool calls with zero-overhead async runtimes.
 
