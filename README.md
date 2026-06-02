@@ -49,6 +49,7 @@
 *   **Token Model Protocol (TMP)** — *Creator & Author*
     *   Devised the Token Model Protocol (TMP), a structured context-grounding protocol that defines JSON schemas for command-line utilities. Integrated natively inside **Waz** to deliver:
         *   **Elimination of LLM Hallucinations**: Replaces verbose, error-prone markdown tool descriptions with strict, validated MCP tool schemas. AI agents are presented with deterministic options and queryable dynamic data sources (e.g. Git status, workspace packages, script configs) to fetch real-time workspace state rather than guessing inputs.
+        *   **Reduced Token Usage & Tool Overhead**: Drastically reduces prompt token consumption and execution latency. By providing structured schemas and resolving context upfront, it avoids the need for the AI to make additional, costly tool calls to resolve dependencies or figure out how to invoke commands.
         *   **Supercharged Autocomplete**: Maps workspace configs (like `Cargo.toml` dependencies or `package.json` scripts) to dynamically suggest paths, flags, and resolver values inside the terminal's Form Panel.
         *   **Dynamic Agent Tooling**: Compiles local TMP definitions into structured, Model Context Protocol (MCP)-aligned tool schemas, enabling AI agents to invoke local terminal commands via validated, sanitized key-value parameters directly on the Rust runtime.
 *   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
