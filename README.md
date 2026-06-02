@@ -144,7 +144,7 @@ I thrive on maintaining an identical, optimized developer environment across all
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5a97f&icon_color=00f5d4&text_color=c0caf5&bg_color=1a1b26" alt="Uriah's Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeitlikemiley&theme=tokyonight" alt="Uriah's Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=codeitlikemiley&theme=tokyonight&hide_border=true&sideNums=00f5d4&sideTitle=f5a97f&currStreakLabel=00f5d4&ring=f5a97f&fire=e05a36" alt="Uriah's Streak" width="100%" />
@@ -153,7 +153,7 @@ I thrive on maintaining an identical, optimized developer environment across all
   <tr>
     <td colspan="2" align="center">
       <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a97f&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="60%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeitlikemiley&theme=tokyonight" alt="Top Languages" width="60%" />
     </td>
   </tr>
 </table>
