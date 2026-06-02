@@ -1,0 +1,55 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Generate graphics and update open-source activity
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Generate 3D Isometric Contribution Graph
+      - name: Generate 3D Isometric Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. Update Recent Activity Feed in README
+      - name: Update Open-Source Activity Feed
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent open-source activity [skip ci]"
+
+      # 3. Generate Snake Game Contribution SVGs
+      - name: Generate Snake Animation
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 4. Commit and Push Generated Assets (3D Graph & Snake SVG)
+      - name: Commit and Push Assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Move snake assets to repository root or dedicated assets folder
+          mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg || true
+          
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "chore: regenerate contribution graphics [skip ci]"
+          git push

@@ -1,145 +1,198 @@
-<!-- markdownlint-disable MD041 MD010 MD033 -->
-
-[![Visitors](https://api.visitorbadge.io/api/daily?path=codeitlikemiley%2Fcodeitlikemiley&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=codeitlikemiley%2Fcodeitlikemiley)
-
-<h1 align="center">Hi, I'm Uriah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+  <a href="https://github.com/codeitlikemiley">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=220&amp;section=header&amp;text=Uriah%20Galang&amp;fontSize=38&amp;theme=tokyonight&amp;desc=Fullstack%20Software%20Engineer%20-%20Rust,%20AI,%20WASM&amp;descSize=18&amp;animation=fadeIn" alt="Header Banner" />
+  </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+10X+Rust+Rockstar+;Fullstack+Rust+Dev;Rust+Open+Source+Maintainer)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=codeitlikemiley)
-
-## 💫 About Me:
-
-I build cross-platform apps, web apps, and mobile apps.
-
-To keep my sanity, I make sure my setup across all platforms stays as similar as possible.
-
-> 💻 **Checkout my dotfiles:**
-
-- [Arch Linux Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux)
-- [Artix Linux Dotfiles](https://github.com/codeitlikemiley/artix-dotfiles)
-- [macOS Dotfiles](https://github.com/goldcoders/mac-m1-dotfiles) + [10X Developer Workflow on Mac](https://github.com/x10-config/10x-dev-macosx-workflow)
-- [Windows Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
-
-> 🛠️ **Checkout my config for different IDEs & editors:**
-
-- [IntelliJ Settings for Kotlin](https://github.com/codeitlikemiley/kotlin-settings)
-- [Android Studio Settings](https://github.com/codeitlikemiley/android-studio-settings)
-- [Rust Rover Settings](https://github.com/codeitlikemiley/rust-rover-settings)
-- [Neovide Rust Edition](https://github.com/codeitlikemiley/nvim)
-- [Xcode Settings](https://github.com/codeitlikemiley/xcode-settings)
-- [VSCode with Neovim](https://github.com/codeitlikemiley/vscode-neovim)
-- [Zed Configuration](https://github.com/codeitlikemiley/zed-config)
+<div align="center">
+  <p>
+    <a href="https://visitorbadge.io/status?path=codeitlikemiley%2Fcodeitlikemiley">
+      <img src="https://api.visitorbadge.io/api/daily?path=codeitlikemiley%2Fcodeitlikemiley&label=Visitors%20Today&countColor=%2337d67a" alt="Visitors" />
+    </a>
+    <a href="https://github.com/sponsors/codeitlikemiley">
+      <img src="https://img.shields.io/badge/sponsor-me-1f69e1?logo=github&style=flat-square" alt="Sponsor" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🚀 My OSS Projects
+## ⚡ The Pillars of Focus
 
-Some notable projects from my Rust collection:
-
-- [Rust Duplex Server](https://github.com/codeitlikemiley/duplex-server-rs) — A highly scalable and performant Rust server for RESTful and gRPC APIs.
-- [Ntex Turso Backend](https://github.com/codeitlikemiley/ntex-turso-backend) — Build your next backend server using the fastest framework in Rust.
-- [Rust on Steroids](https://github.com/codeitlikemiley/rust-on-steroids) — A reproducible full-stack Rust dev environment, perfect for Codespaces or Dev Containers.
-- [GRPC Server Template](http://github.com/codeitlikemiley/server_template) and [GRPC Services Template Generator](http://github.com/codeitlikemiley/service_template).
-- [Workspace CLI](http://github.com/codeitlikemiley/ws-cli) — Manage your Rust workspace efficiently.
-- [Snippet Management CLI](https://github.com/codeitlikemiley/snipr) — Organize your snippets for Neovim & VSCode.
-- [Cargo Runner](https://github.com/codeitlikemiley/cargo-runner) — A VSCode plugin to boost your Rust productivity.
-- [RAZ - Rust Action Zapper](https://github.com/codeitlikemiley/raz) - A universal command runner that executes any Rust file from any directory without requiring workspace context. It provides intelligent, cursor-aware test detection and persistent command overrides.
-- [WAZ](https://github.com/codeitlikemiley/waz) - Bring Warp Intelligence to your terminal
-- [Crabtime for Mac](https://github.com/codeitlikemiley/crabtime) - AI Assisted Learning with Rust from Community Sources like Rustlings, Exercism, CodeCrafters or Create Your Own
-- [Screen Recorder](https://github.com/codeitlikemiley/screenrecorder) - AI Powered ScreenRecorder can be used to auto annotate for documentations or used for bug reproduction tools
-
-![Open VSX Downloads](https://img.shields.io/open-vsx/dt/masterustacean/cargo-runner)
-![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads-short/masterustacean.cargo-runner.svg)
-
-- [Leptos-fmt VSCode Plugin](https://github.com/codeitlikemiley/leptos-fmt) — Code formatter for the Leptos Rust framework.
-
-![Open VSX Downloads](https://img.shields.io/open-vsx/dt/masterustacean/leptos-fmt)
-![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads/masterustacean.leptos-fmt.svg)
-
-> ❤️ If you like my work, please consider [sponsoring me](https://github.com/sponsors/codeitlikemiley) to support my open-source contributions.
-
-[![Sponsor me on GitHub](https://img.shields.io/badge/sponsor-me-1f69e1?logo=github&style=for-the-badge)](https://github.com/sponsors/codeitlikemiley)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 Agentic AI</h3>
+      <p>Building autonomous, local-first intelligent runtimes, terminals, and agentic workflows that replace heavy Python stacks with safe, ultra-fast Rust.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕸️ WASM & WASI</h3>
+      <p>Compiling the future to WebAssembly. Specializing in WASI Preview 2, server-side SSR edge nodes, and secure cloud micro-services.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Developer DX</h3>
+      <p>Crafting high-speed terminal tools, IDE integrations, and automated setups to minimize friction and boost developer performance by 10X.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 Featured Open Source Work
 
-![Linux](https://img.shields.io/badge/Linux-FF3A00?style=for-the-badge&logo=linux&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🤖 Agentic AI & Intelligent Tooling
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+*   **[`waz`](https://github.com/codeitlikemiley/waz)** — *Local-First AI Terminal (Warp Fork)*
+    *   An open, local-first terminal (forked from Warp) stripped of mandatory cloud accounts and paid memberships. Integrates native AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables local, secure execution of third-party CLI agents (such as Google Antigravity `agy`, Claude Code, and DeepSeek-TUI).
+*   **Token Model Protocol (TMP)** — *Creator & Author*
+    *   Devised the Token Model Protocol (TMP), a structured context-grounding protocol that defines JSON schemas for command-line utilities. Integrated natively inside **Waz** to deliver two core capabilities:
+        *   **Supercharged Autocomplete**: Maps workspace configs (like `Cargo.toml` dependencies or `package.json` scripts) to dynamically suggest paths, flags, and resolver values inside the terminal's Form Panel.
+        *   **Dynamic Agent Tooling**: Compiles local TMP definitions into structured, Model Context Protocol (MCP)-aligned tool schemas, enabling AI agents to invoke local terminal commands via validated, sanitized key-value parameters directly on the Rust runtime.
+*   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
+    *   Build type-safe, highly asynchronous multi-agent orchestration systems natively in Rust. Connect LLMs, manage memory states, and define tool calls with zero-overhead async runtimes.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🕸️ WebAssembly, WASI & Edge Cloud
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-100000.svg?style=for-the-badge&logo=bun&logoColor=white)
+*   **[`wasm-bindgen`](https://github.com/rustwasm/wasm-bindgen)** — *High-Level JS Interop*
+    *   Contributor to the core Rust-to-WebAssembly binding pipeline, maintaining performance-critical libraries that facilitate high-level interop between Wasm modules and JS.
+*   **[`leptos_wasi`](https://github.com/codeitlikemiley/leptos_wasi)** — *Leptos WASI Preview 2 Integration*
+    *   Full integration of the Leptos web framework with WASI Preview 2. Run high-performance fullstack Rust applications on edge runtimes like wasmcloud and Fermyon Spin.
+*   **[`leptos-spin`](https://github.com/codeitlikemiley/leptos-spin)** — *Full-Stack Spin Template*
+    *   Template for running server-side rendered (SSR) Leptos applications natively inside Fermyon Spin webassembly modules.
+*   **[`wasi-auth-middleware`](https://github.com/codeitlikemiley/wasi-auth-middleware)** — *WASM Auth Component*
+    *   A portable, sandboxed WebAssembly component executing GitHub authentication and session authorization logic securely at the edge.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
+### ⚡ High-Performance Rust & Developer DX
 
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-0E4B78.svg?style=for-the-badge&logo=actix&logoColor=white)
-![WASM](https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+*   **[`tauri-leptos-ssr`](https://github.com/codeitlikemiley/tauri-leptos-ssr)** — *Tauri v2 + Leptos SSR + Tailwind v4*
+    *   A modern template to build lightweight, cross-platform desktop applications utilizing server-side rendering benefits and cutting-edge styling systems.
+*   **[`cargo-runner`](https://github.com/codeitlikemiley/cargo-runner)** — *VSCode Cargo Crates Runner*
+    *   A popular VSCode extension to execute cargo tasks and manage crates directly from the editor, streamlining your development pipeline.
+    *   [![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads-short/masterustacean.cargo-runner.svg)](https://marketplace.visualstudio.com/items?itemName=masterustacean.cargo-runner) [![Open VSX](https://img.shields.io/open-vsx/dt/masterustacean/cargo-runner)](https://open-vsx.org/extension/masterustacean/cargo-runner)
+*   **[`leptos-fmt`](https://github.com/codeitlikemiley/leptos-fmt)** — *VSCode Leptos Formatter*
+    *   A specialized editor extension dedicated to formatting Rust Leptos view macros and markup code with speed and high precision.
+    *   [![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads-short/masterustacean.leptos-fmt.svg)](https://marketplace.visualstudio.com/items?itemName=masterustacean.leptos-fmt) [![Open VSX](https://img.shields.io/open-vsx/dt/masterustacean/leptos-fmt)](https://open-vsx.org/extension/masterustacean/leptos-fmt)
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🏢 Startups & Commercial Products
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg)
+*   **`Buwiz`** (Goldcoders Corp.) — *Creator & Lead Engineer*
+    *   An offline-first, high-security fintech ecosystem designed for business accounting and tax automation:
+        *   **`Buwiz Books`** — Multi-tenant ledger systems and business accounting engines.
+        *   **`Buwiz Forms`** — Smart tax forms filing and BIR e-filing automation tools.
+        *   **`Buwiz AI Agent`** — Autonomous AI bookkeeping agents automating transaction categorization and accounts mapping.
+*   **[`Bad Character Scanner`](https://github.com/bad-character-scanner-codebase)** (Bad Character Scanner Codebase Inc.) — *Co-Founder & Lead Engineer*
+    *   Co-founded the Bad Character Scanner codebase, a deep binary-level threat assessment scanner identifying invisible characters, malicious Unicode homoglyphs, and Trojan Source compiler exploits.
+*   **`Watch Crunch`** (Watchcrunch LLC) — *Mobile Engineer*
+    *   Architected and built the mobile applications for Watch Crunch, the premier social cataloging and community platform for global watch enthusiasts.
+*   **`Stylar App`** (Sphene Studio Inc.) — *Mobile & AI Engineer*
+    *   Developed the mobile application and virtual try-on workflow interfaces leveraging advanced diffusion models for AI-driven fashion styling and outfit simulation.
 
 ---
 
-## 📊 My GitHub Stats 🏆
+## 🛠️ Tech Stack & Ecosystem
 
-<p align=center>
-  <div align=center>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=codeitlikemiley&theme=react&border=61dafb&hide_border=true" alt="codeitlikemiley" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </div>
+```text
+       Core Languages  │ Rust, WebAssembly (WASM/WASI), TypeScript, Swift, Go, Dart
+     Frontend Frameworks  │ Leptos, Dioxus, React, SolidJS, Svelte, Tailwind CSS (v4)
+      Backend & Runtimes  │ Axum, Tonic (gRPC), Actix, Fermyon Spin, Wasmcloud, Bun, Node
+ Infrastructure & Edge  │ Docker, Kubernetes, Terraform, Cloudflare R2, AWS, GCP, Vercel
+     Workflow & Tooling  │ Neovim, Zed, Cargo, Bazel, git, Xcode, Android Studio
+```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,wasm,ts,swift,go,dart,react,solidjs,svelte,tailwind,nodejs,docker,kubernetes,aws,gcp,git,neovim,vscode,figma&theme=dark" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 💻 Custom Configurations & Dotfiles
 
-If you’re interested in collaborating or discussing projects:
+I thrive on maintaining an identical, optimized developer environment across all major operating systems. Here are the configs that power my 10X workflow:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uriahg)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/t024h/)
-[![X](https://img.shields.io/badge/X-%23181717.svg?logo=x&logoColor=white)](https://x.com/buggyDcode)
+<details>
+  <summary><b>🐧 Operating System Dotfiles (Expand/Collapse)</b></summary>
+  <ul>
+    <li><a href="https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux">Arch Linux Dotfiles</a> — Optimized for mobile setups.</li>
+    <li><a href="https://github.com/codeitlikemiley/artix-dotfiles">Artix Linux Dotfiles</a> — Runit-based system configurations.</li>
+    <li><a href="https://github.com/goldcoders/mac-m1-dotfiles">macOS Dotfiles</a> + <a href="https://github.com/x10-config/10x-dev-macosx-workflow">10X Mac Developer Workflow</a>.</li>
+    <li><a href="https://github.com/goldcoders/windows-10-dotfiles">Windows Dotfiles</a> — High-productivity settings.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚙️ IDE & Editor Settings (Expand/Collapse)</b></summary>
+  <ul>
+    <li><a href="https://github.com/codeitlikemiley/nvim">Neovide Rust Edition</a> — GPU-accelerated Neovim environment.</li>
+    <li><a href="https://github.com/codeitlikemiley/zed-config">Zed Configuration</a> — Optimizations for the ultra-fast Rust editor.</li>
+    <li><a href="https://github.com/codeitlikemiley/vscode-neovim">VSCode with Neovim</a> — Hybrid productivity layout.</li>
+    <li><a href="https://github.com/codeitlikemiley/rust-rover-settings">Rust Rover Settings</a> — JetBrains Rust tuning.</li>
+    <li><a href="https://github.com/codeitlikemiley/kotlin-settings">IntelliJ Settings for Kotlin</a>.</li>
+    <li><a href="https://github.com/codeitlikemiley/xcode-settings">Xcode Settings</a> — Customized for Swift/Mac builds.</li>
+  </ul>
+</details>
+
+---
+
+## 📊 Analytics & Contribution Activity
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=codeitlikemiley&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5a97f&icon_color=00f5d4&text_color=c0caf5&bg_color=1a1b26" alt="Uriah's Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=codeitlikemiley&theme=tokyonight&hide_border=true&sideNums=00f5d4&sideTitle=f5a97f&currStreakLabel=00f5d4&ring=f5a97f&fire=e05a36" alt="Uriah's Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitlikemiley&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=f5a97f&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
+</table>
+
+### 🗺️ 3D Isometric Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+### 🐍 Contribution Activity (Snake Game)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
+</p>
+
+### ⚡ Recent Open-Source Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🌐 Connect & Collaborate
+
+Let's discuss Rust, WASI components, or AI Agent ecosystems.
+
+<p align="center">
+  <a href="https://linkedin.com/in/codeitlikemiley">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/buggyDcode">
+    <img src="https://img.shields.io/badge/X-%23181717.svg?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+  </a>
+  <a href="https://www.facebook.com/t024h/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+</p>
+
+> ❤️ *If you find my tools or libraries helpful, consider supporting my work via [GitHub Sponsors](https://github.com/sponsors/codeitlikemiley).*
+
+---
