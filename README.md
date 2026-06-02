@@ -69,11 +69,11 @@
     *   Template for running server-side rendered (SSR) Leptos applications natively inside Fermyon Spin webassembly modules.
 *   **[`wasi-auth-middleware`](https://github.com/codeitlikemiley/wasi-auth-middleware)** — *WASM Auth Component*
     *   A portable, sandboxed WebAssembly component executing GitHub authentication and session authorization logic securely at the edge.
+*   **[`tauri-leptos-ssr`](https://github.com/codeitlikemiley/tauri-leptos-ssr)** — *Tauri v2 + Leptos SSR + Tailwind v4*
+    *   A modern template to build lightweight, cross-platform desktop applications utilizing server-side rendering benefits and cutting-edge styling systems.
 
 ### ⚡ High-Performance Rust & Developer DX
 
-*   **[`tauri-leptos-ssr`](https://github.com/codeitlikemiley/tauri-leptos-ssr)** — *Tauri v2 + Leptos SSR + Tailwind v4*
-    *   A modern template to build lightweight, cross-platform desktop applications utilizing server-side rendering benefits and cutting-edge styling systems.
 *   **[`cargo-runner`](https://github.com/codeitlikemiley/cargo-runner)** — *VSCode Cargo Crates Runner*
     *   A popular VSCode extension to execute cargo tasks and manage crates directly from the editor, streamlining your development pipeline.
     *   [![VSCode Marketplace](https://vsmarketplacebadges.dev/downloads-short/masterustacean.cargo-runner.svg)](https://marketplace.visualstudio.com/items?itemName=masterustacean.cargo-runner) [![Open VSX](https://img.shields.io/open-vsx/dt/masterustacean/cargo-runner)](https://open-vsx.org/extension/masterustacean/cargo-runner)
