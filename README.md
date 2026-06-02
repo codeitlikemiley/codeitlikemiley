@@ -84,7 +84,7 @@
         *   **`Buwiz Books`** — Multi-tenant ledger systems and business accounting engines.
         *   **`Buwiz Forms`** — Smart tax forms filing and BIR e-filing automation tools.
         *   **`Buwiz AI Agent`** — Autonomous AI bookkeeping agents automating transaction categorization and accounts mapping.
-*   **[`Bad Character Scanner`](https://github.com/bad-character-scanner-codebase)** (Bad Character Scanner Codebase Inc.) — *Co-Founder & Lead Engineer*
+*   **`Bad Character Scanner`** (Bad Character Scanner Codebase Inc.) — *Co-Founder & Lead Engineer*
     *   Co-founded the Bad Character Scanner codebase, a deep binary-level threat assessment scanner identifying invisible characters, malicious Unicode homoglyphs, and Trojan Source compiler exploits.
 *   **`Watch Crunch`** (Watchcrunch LLC) — *Mobile Engineer*
     *   Architected and built the mobile applications for Watch Crunch, the premier social cataloging and community platform for global watch enthusiasts.
