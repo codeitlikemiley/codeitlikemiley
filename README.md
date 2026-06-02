@@ -51,7 +51,11 @@
         *   **Supercharged Autocomplete**: Maps workspace configs (like `Cargo.toml` dependencies or `package.json` scripts) to dynamically suggest paths, flags, and resolver values inside the terminal's Form Panel.
         *   **Dynamic Agent Tooling**: Compiles local TMP definitions into structured, Model Context Protocol (MCP)-aligned tool schemas, enabling AI agents to invoke local terminal commands via validated, sanitized key-value parameters directly on the Rust runtime.
 *   **[`waz`](https://github.com/codeitlikemiley/waz)** — *Local-First AI Terminal (Warp Fork)*
-    *   An open, local-first terminal (forked from Warp) stripped of mandatory cloud accounts and paid memberships. Features native integration with the **Token Model Protocol (TMP)**, integrates local AI provider support via Bring Your Own Key/Provider (BYOK/BYOP), and enables secure execution of third-party CLI agents (such as Google Antigravity `agy`, Claude Code, and DeepSeek-TUI).
+    *   An open, local-first terminal (forked from Warp) stripped of mandatory cloud accounts and paid memberships.
+    *   **Native TMP Integration**: Natively integrates the **Token Model Protocol (TMP)** to:
+        *   Provide supercharged tab-autocomplete for paths, flags, and dynamic values (e.g. from `git status`) inside the terminal's Form Panel.
+        *   Compile local command schemas directly into structured Model Context Protocol (MCP) tools for AI agents, verifying parameters and generating safe, sanitized shell instructions on the local Rust runtime.
+    *   **Agent & Provider Support**: Integrates local AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables secure, local execution of third-party CLI agents (such as Google Antigravity `agy`, Claude Code, and DeepSeek-TUI) wired directly into Blocks.
 *   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
     *   Build type-safe, highly asynchronous multi-agent orchestration systems natively in Rust. Connect LLMs, manage memory states, and define tool calls with zero-overhead async runtimes.
 
