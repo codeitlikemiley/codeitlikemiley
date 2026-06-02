@@ -46,15 +46,15 @@
 
 *   **Token Model Protocol (TMP)** — *Creator & Author*
     *   Devised the Token Model Protocol (TMP), a structured context-grounding protocol that defines JSON schemas for command-line utilities. Integrated natively inside **Waz** to deliver:
-        *   **Elimination of LLM Hallucinations**: Replaces verbose, error-prone markdown tool descriptions with strict, validated MCP tool schemas. AI agents are presented with deterministic options and queryable dynamic data sources (e.g. Git status, workspace packages, script configs) to fetch real-time workspace state rather than guessing inputs.
+        *   **Elimination of LLM Hallucinations**: Replaces verbose, error-prone markdown tool descriptions with strict, model-native tool schemas. AI agents are presented with deterministic options and queryable dynamic data sources (e.g. Git status, workspace packages, script configs) to fetch real-time workspace state rather than guessing inputs.
         *   **Reduced Token Usage & Tool Overhead**: Drastically reduces prompt token consumption and execution latency. By providing structured schemas and resolving context upfront, it avoids the need for the AI to make additional, costly tool calls to resolve dependencies or figure out how to invoke commands.
         *   **Supercharged Autocomplete**: Maps workspace configs (like `Cargo.toml` dependencies or `package.json` scripts) to dynamically suggest paths, flags, and resolver values inside the terminal's Form Panel.
-        *   **Dynamic Agent Tooling**: Compiles local TMP definitions into structured, Model Context Protocol (MCP)-aligned tool schemas, enabling AI agents to invoke local terminal commands via validated, sanitized key-value parameters directly on the Rust runtime.
+        *   **Dynamic Agent Tooling**: Compiles local TMP definitions directly into structured, JSON-Schema tool definitions. AI agents invoke terminal commands via validated, sanitized key-value parameters which are securely translated to shell instructions on the local Rust runtime.
 *   **[`waz`](https://github.com/codeitlikemiley/waz)** — *Local-First AI Terminal (Warp Fork)*
     *   An open, local-first terminal (forked from Warp) stripped of mandatory cloud accounts and paid memberships.
     *   **Native TMP Integration**: Natively integrates the **Token Model Protocol (TMP)** to:
         *   Provide supercharged tab-autocomplete for paths, flags, and dynamic values (e.g. from `git status`) inside the terminal's Form Panel.
-        *   Compile local command schemas directly into structured Model Context Protocol (MCP) tools for AI agents, verifying parameters and generating safe, sanitized shell instructions on the local Rust runtime.
+        *   Translate local command schemas directly into model-native tool definitions (`GenaiTool`), validating parameters against JSON-Schema specifications, sanitizing inputs against shell injection, and compiling them into safe shell instructions executed natively on the Rust runtime.
     *   **Agent & Provider Support**: Integrates local AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables secure, local execution of third-party CLI agents (such as Claude Code and DeepSeek-TUI) wired directly into Blocks.
 *   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
     *   Build type-safe, highly asynchronous multi-agent orchestration systems natively in Rust. Connect LLMs, manage memory states, and define tool calls with zero-overhead async runtimes.
