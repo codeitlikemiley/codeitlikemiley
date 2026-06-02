@@ -47,7 +47,8 @@
 *   **[`waz`](https://github.com/codeitlikemiley/waz)** — *Local-First AI Terminal (Warp Fork)*
     *   An open, local-first terminal (forked from Warp) stripped of mandatory cloud accounts and paid memberships. Integrates native AI provider support via Bring Your Own Key/Provider (BYOK/BYOP) and enables local, secure execution of third-party CLI agents (such as Google Antigravity `agy`, Claude Code, and DeepSeek-TUI).
 *   **Token Model Protocol (TMP)** — *Creator & Author*
-    *   Devised the Token Model Protocol (TMP), a structured context-grounding protocol that defines JSON schemas for command-line utilities. Integrated natively inside **Waz** to deliver two core capabilities:
+    *   Devised the Token Model Protocol (TMP), a structured context-grounding protocol that defines JSON schemas for command-line utilities. Integrated natively inside **Waz** to deliver:
+        *   **Elimination of LLM Hallucinations**: Replaces verbose, error-prone markdown tool descriptions with strict, validated MCP tool schemas. AI agents are presented with deterministic options and queryable dynamic data sources (e.g. Git status, workspace packages, script configs) to fetch real-time workspace state rather than guessing inputs.
         *   **Supercharged Autocomplete**: Maps workspace configs (like `Cargo.toml` dependencies or `package.json` scripts) to dynamically suggest paths, flags, and resolver values inside the terminal's Form Panel.
         *   **Dynamic Agent Tooling**: Compiles local TMP definitions into structured, Model Context Protocol (MCP)-aligned tool schemas, enabling AI agents to invoke local terminal commands via validated, sanitized key-value parameters directly on the Rust runtime.
 *   **[`antigravity-sdk-rust`](https://github.com/codeitlikemiley/antigravity-sdk-rust)** — *Google Antigravity Rust SDK*
@@ -173,11 +174,6 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/leptos-rs/leptos_wasi/pull/22) in [leptos-rs/leptos_wasi](https://github.com/leptos-rs/leptos_wasi)
-2. 💪 Opened PR [#63](https://github.com/akamai-developers/leptos-spin/pull/63) in [akamai-developers/leptos-spin](https://github.com/akamai-developers/leptos-spin)
-3. 🎉 Merged PR [#62](https://github.com/akamai-developers/leptos-spin/pull/62) in [akamai-developers/leptos-spin](https://github.com/akamai-developers/leptos-spin)
-4. 🗣 Commented on [#5175](https://github.com/wasm-bindgen/wasm-bindgen/pull/5175#issuecomment-4592833193) in [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen)
-5. 🗣 Commented on [#5175](https://github.com/wasm-bindgen/wasm-bindgen/pull/5175#issuecomment-4592775852) in [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen)
 <!--END_SECTION:activity-->
 
 ---
