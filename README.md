@@ -180,10 +180,10 @@ I thrive on maintaining an identical, optimized developer environment across all
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5175](https://github.com/wasm-bindgen/wasm-bindgen/pull/5175) in [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen)
-2. 🎉 Merged PR [#63](https://github.com/akamai-developers/leptos-spin/pull/63) in [akamai-developers/leptos-spin](https://github.com/akamai-developers/leptos-spin)
+2. 🎉 Merged PR [#63](https://github.com/spinframework/leptos-spin/pull/63) in [spinframework/leptos-spin](https://github.com/spinframework/leptos-spin)
 3. 🚀 Published release [v0.2.0](https://github.com/codeitlikemiley/waz/releases/tag/v0.2.0) in [codeitlikemiley/waz](https://github.com/codeitlikemiley/waz)
 4. ❌ Closed PR [#22](https://github.com/leptos-rs/leptos_wasi/pull/22) in [leptos-rs/leptos_wasi](https://github.com/leptos-rs/leptos_wasi)
-5. 💪 Opened PR [#63](https://github.com/akamai-developers/leptos-spin/pull/63) in [akamai-developers/leptos-spin](https://github.com/akamai-developers/leptos-spin)
+5. 💪 Opened PR [#63](https://github.com/spinframework/leptos-spin/pull/63) in [spinframework/leptos-spin](https://github.com/spinframework/leptos-spin)
 <!--END_SECTION:activity-->
 
 ---
