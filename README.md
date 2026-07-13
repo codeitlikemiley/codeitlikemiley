@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cargo-runner/cargo-runner/pull/1) in [cargo-runner/cargo-runner](https://github.com/cargo-runner/cargo-runner)
-2. 💪 Opened PR [#1](https://github.com/cargo-runner/cargo-runner/pull/1) in [cargo-runner/cargo-runner](https://github.com/cargo-runner/cargo-runner)
-3. 🎉 Merged PR [#92](https://github.com/leptos-rs/awesome-leptos/pull/92) in [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos)
-4. 💪 Opened PR [#92](https://github.com/leptos-rs/awesome-leptos/pull/92) in [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos)
-5. 🔒 Closed issue [#7](https://github.com/codeitlikemiley/antigravity-sdk-rust/issues/7) in [codeitlikemiley/antigravity-sdk-rust](https://github.com/codeitlikemiley/antigravity-sdk-rust)
+1. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
+2. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/1) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+3. 🎉 Merged PR [#7](https://github.com/codeitlikemiley/leptos_wasi/pull/7) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+4. ❌ Closed PR [#8](https://github.com/codeitlikemiley/leptos_wasi/pull/8) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+5. ❌ Closed PR [#2](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/2) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
 <!--END_SECTION:activity-->
 
 ---
