@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-2. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/1) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-3. 🎉 Merged PR [#7](https://github.com/codeitlikemiley/leptos_wasi/pull/7) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-4. ❌ Closed PR [#8](https://github.com/codeitlikemiley/leptos_wasi/pull/8) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-5. ❌ Closed PR [#2](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/2) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+1. 🎉 Merged PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+2. 💪 Opened PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+3. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
+4. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/1) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+5. 🎉 Merged PR [#7](https://github.com/codeitlikemiley/leptos_wasi/pull/7) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
 <!--END_SECTION:activity-->
 
 ---
