@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-2. 💪 Opened PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-3. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-4. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/1) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-5. 🎉 Merged PR [#7](https://github.com/codeitlikemiley/leptos_wasi/pull/7) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+1. 🎉 Merged PR [#56315](https://github.com/zed-industries/zed/pull/56315) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. 🗣 Commented on [#56315](https://github.com/zed-industries/zed/pull/56315#issuecomment-5106279927) in [zed-industries/zed](https://github.com/zed-industries/zed)
+3. 🎉 Merged PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+4. 💪 Opened PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
+5. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
 <!--END_SECTION:activity-->
 
 ---
