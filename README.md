@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56315](https://github.com/zed-industries/zed/pull/56315) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#56315](https://github.com/zed-industries/zed/pull/56315#issuecomment-5106279927) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🎉 Merged PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-4. 💪 Opened PR [#3](https://github.com/codeitlikemiley/ddd-cqrs-es/pull/3) in [codeitlikemiley/ddd-cqrs-es](https://github.com/codeitlikemiley/ddd-cqrs-es)
-5. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/wasi-auth/pull/1) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
+1. 🎉 Merged PR [#8](https://github.com/codeitlikemiley/antigravity-sdk-rust/pull/8) in [codeitlikemiley/antigravity-sdk-rust](https://github.com/codeitlikemiley/antigravity-sdk-rust)
+2. 🎉 Merged PR [#4](https://github.com/codeitlikemiley/complex-bazel-setup/pull/4) in [codeitlikemiley/complex-bazel-setup](https://github.com/codeitlikemiley/complex-bazel-setup)
+3. 🎉 Merged PR [#3](https://github.com/codeitlikemiley/complex-bazel-setup/pull/3) in [codeitlikemiley/complex-bazel-setup](https://github.com/codeitlikemiley/complex-bazel-setup)
+4. 💪 Opened PR [#5](https://github.com/codeitlikemiley/complex-bazel-setup/pull/5) in [codeitlikemiley/complex-bazel-setup](https://github.com/codeitlikemiley/complex-bazel-setup)
+5. 🎉 Merged PR [#9](https://github.com/codeitlikemiley/leptos_wasi/pull/9) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
 <!--END_SECTION:activity-->
 
 ---
