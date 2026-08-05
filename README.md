@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/codeitlikemiley/wasi-auth/pull/10) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-2. 💪 Opened PR [#9](https://github.com/codeitlikemiley/wasi-auth/pull/9) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-3. 🎉 Merged PR [#8](https://github.com/codeitlikemiley/wasi-auth/pull/8) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-4. 💪 Opened PR [#8](https://github.com/codeitlikemiley/wasi-auth/pull/8) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
-5. 🎉 Merged PR [#7](https://github.com/codeitlikemiley/wasi-auth/pull/7) in [codeitlikemiley/wasi-auth](https://github.com/codeitlikemiley/wasi-auth)
+1. 🎉 Merged PR [#25](https://github.com/codeitlikemiley/leptos_wasi/pull/25) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+2. 💪 Opened PR [#25](https://github.com/codeitlikemiley/leptos_wasi/pull/25) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+3. 🎉 Merged PR [#24](https://github.com/codeitlikemiley/leptos_wasi/pull/24) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+4. 💪 Opened PR [#24](https://github.com/codeitlikemiley/leptos_wasi/pull/24) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+5. 🎉 Merged PR [#23](https://github.com/codeitlikemiley/leptos_wasi/pull/23) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
 <!--END_SECTION:activity-->
 
 ---
