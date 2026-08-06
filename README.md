@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/codeitlikemiley/leptos_wasi/pull/25) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-2. 💪 Opened PR [#25](https://github.com/codeitlikemiley/leptos_wasi/pull/25) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-3. 🎉 Merged PR [#24](https://github.com/codeitlikemiley/leptos_wasi/pull/24) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-4. 💪 Opened PR [#24](https://github.com/codeitlikemiley/leptos_wasi/pull/24) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-5. 🎉 Merged PR [#23](https://github.com/codeitlikemiley/leptos_wasi/pull/23) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+1. 🎉 Merged PR [#27](https://github.com/codeitlikemiley/leptos_wasi/pull/27) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+2. 💪 Opened PR [#27](https://github.com/codeitlikemiley/leptos_wasi/pull/27) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+3. 🚀 Published release [leptos-wasi-runtime 0.4.2](https://github.com/codeitlikemiley/leptos_wasi/releases/tag/leptos-wasi-runtime-v0.4.2) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+4. 🎉 Merged PR [#26](https://github.com/codeitlikemiley/leptos_wasi/pull/26) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+5. 💪 Opened PR [#26](https://github.com/codeitlikemiley/leptos_wasi/pull/26) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
 <!--END_SECTION:activity-->
 
 ---
