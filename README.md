@@ -179,11 +179,11 @@ I thrive on maintaining an identical, optimized developer environment across all
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/codeitlikemiley/leptos_wasi/pull/27) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-2. 💪 Opened PR [#27](https://github.com/codeitlikemiley/leptos_wasi/pull/27) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-3. 🚀 Published release [leptos-wasi-runtime 0.4.2](https://github.com/codeitlikemiley/leptos_wasi/releases/tag/leptos-wasi-runtime-v0.4.2) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-4. 🎉 Merged PR [#26](https://github.com/codeitlikemiley/leptos_wasi/pull/26) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
-5. 💪 Opened PR [#26](https://github.com/codeitlikemiley/leptos_wasi/pull/26) in [codeitlikemiley/leptos_wasi](https://github.com/codeitlikemiley/leptos_wasi)
+1. 🎉 Merged PR [#1](https://github.com/codeitlikemiley/tailfin/pull/1) in [codeitlikemiley/tailfin](https://github.com/codeitlikemiley/tailfin)
+2. 💪 Opened PR [#1](https://github.com/codeitlikemiley/tailfin/pull/1) in [codeitlikemiley/tailfin](https://github.com/codeitlikemiley/tailfin)
+3. ❌ Closed PR [#9](https://github.com/codeitlikemiley/panday/pull/9) in [codeitlikemiley/panday](https://github.com/codeitlikemiley/panday)
+4. 🗣 Commented on [#9](https://github.com/codeitlikemiley/panday/pull/9#issuecomment-5348430447) in [codeitlikemiley/panday](https://github.com/codeitlikemiley/panday)
+5. ❌ Closed PR [#8](https://github.com/codeitlikemiley/panday/pull/8) in [codeitlikemiley/panday](https://github.com/codeitlikemiley/panday)
 <!--END_SECTION:activity-->
 
 ---
