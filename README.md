@@ -161,7 +161,7 @@ Let's discuss Rust, WASI components, or AI Agent ecosystems.
   <a href="https://linkedin.com/in/codeitlikemiley">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/buggyDcode">
+  <a href="https://x.com/codeitlikemiley">
     <img src="https://img.shields.io/badge/X-%23181717.svg?logo=x&logoColor=white&style=for-the-badge" alt="X" />
   </a>
   <a href="https://www.facebook.com/x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x/">
