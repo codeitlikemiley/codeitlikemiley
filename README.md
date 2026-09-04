@@ -117,34 +117,6 @@
 
 ---
 
-## 💻 Custom Configurations & Dotfiles
-
-I thrive on maintaining an identical, optimized developer environment across all major operating systems. Here are the configs that power my 10X workflow:
-
-<details>
-  <summary><b>🐧 Operating System Dotfiles (Expand/Collapse)</b></summary>
-  <ul>
-    <li><a href="https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux">Arch Linux Dotfiles</a> — Optimized for mobile setups.</li>
-    <li><a href="https://github.com/codeitlikemiley/artix-dotfiles">Artix Linux Dotfiles</a> — Runit-based system configurations.</li>
-    <li><a href="https://github.com/goldcoders/mac-m1-dotfiles">macOS Dotfiles</a> + <a href="https://github.com/x10-config/10x-dev-macosx-workflow">10X Mac Developer Workflow</a>.</li>
-    <li><a href="https://github.com/goldcoders/windows-10-dotfiles">Windows Dotfiles</a> — High-productivity settings.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>⚙️ IDE & Editor Settings (Expand/Collapse)</b></summary>
-  <ul>
-    <li><a href="https://github.com/codeitlikemiley/nvim">Neovide Rust Edition</a> — GPU-accelerated Neovim environment.</li>
-    <li><a href="https://github.com/codeitlikemiley/zed-config">Zed Configuration</a> — Optimizations for the ultra-fast Rust editor.</li>
-    <li><a href="https://github.com/codeitlikemiley/vscode-neovim">VSCode with Neovim</a> — Hybrid productivity layout.</li>
-    <li><a href="https://github.com/codeitlikemiley/rust-rover-settings">Rust Rover Settings</a> — JetBrains Rust tuning.</li>
-    <li><a href="https://github.com/codeitlikemiley/kotlin-settings">IntelliJ Settings for Kotlin</a>.</li>
-    <li><a href="https://github.com/codeitlikemiley/xcode-settings">Xcode Settings</a> — Customized for Swift/Mac builds.</li>
-  </ul>
-</details>
-
----
-
 ## 📊 Analytics & Contribution Activity
 
 <table border="0" width="100%">
@@ -176,15 +148,8 @@ I thrive on maintaining an identical, optimized developer environment across all
   <img src="https://raw.githubusercontent.com/codeitlikemiley/codeitlikemiley/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
 </p>
 
-### ⚡ Recent Open-Source Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/hexuria/zerohuman-bench/issues/17#issuecomment-5491879424) in [hexuria/zerohuman-bench](https://github.com/hexuria/zerohuman-bench)
-2. ❗ Opened issue [#19](https://github.com/hexuria/zerohuman-bench/issues/19) in [hexuria/zerohuman-bench](https://github.com/hexuria/zerohuman-bench)
-3. ❗ Opened issue [#18](https://github.com/hexuria/zerohuman-bench/issues/18) in [hexuria/zerohuman-bench](https://github.com/hexuria/zerohuman-bench)
-4. ❗ Opened issue [#11](https://github.com/hexuria/zerohuman-bench/issues/11) in [hexuria/zerohuman-bench](https://github.com/hexuria/zerohuman-bench)
-5. ❗ Opened issue [#9](https://github.com/hexuria/zerohuman-bench/issues/9) in [hexuria/zerohuman-bench](https://github.com/hexuria/zerohuman-bench)
-<!--END_SECTION:activity-->
+
 
 ---
 
